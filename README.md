@@ -23,7 +23,7 @@ Converts [reveal.js](https://revealjs.com) HTML slide decks into editable PowerP
 **1. Clone or download this repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/revealjs-to-pptx.git
+git clone https://github.com/ddzeeuw1-ai/revealjs-to-pptx.git
 cd revealjs-to-pptx
 ```
 
